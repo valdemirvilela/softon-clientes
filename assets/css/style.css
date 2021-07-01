@@ -358,8 +358,7 @@ section {
   top: 50%;
   transform: translate(-50%, -50%);
   width: 122px;
-  height: 66px;
-  background: url(../img/section-title-bg.png) no-repeat;
+  height: 66px;  
   z-index: -1;
 }
 
